@@ -1,0 +1,8 @@
+[
+  {"date": "2020-01-10", "room": "钢琴A房", "timeSlot": "19:00-20:00", "status": "checked-in", "displayName": "阿强", "note": "练琴", "duration": 1.0, "checkInAt": "2020-01-10 19:05"},
+  {"date": "2020-01-10", "room": "钢琴B房", "timeSlot": "19:00-20:00", "status": "checked-in", "displayName": "小美", "note": "准备期末考", "duration": 1.0, "checkInAt": "2020-01-10 19:02"},
+  {"date": "2020-01-10", "room": "钢琴A房", "timeSlot": "20:00-21:00", "status": "booked", "displayName": "老王", "note": "", "duration": 0, "checkInAt": ""},
+  {"date": "2020-01-11", "room": "钢琴A房", "timeSlot": "14:00-15:00", "status": "checked-in", "displayName": "阿强", "note": "带朋友来", "duration": 1.0, "checkInAt": "2020-01-11 14:10"},
+  {"date": "2020-01-11", "room": "钢琴A房", "timeSlot": "15:00-16:00", "status": "checked-in", "displayName": "阿强", "note": "续时", "duration": 1.0, "checkInAt": "2020-01-11 15:05"},
+  {"date": "2020-01-12", "room": "钢琴B房", "timeSlot": "20:00-21:00", "status": "checked-in", "displayName": "Lucy", "note": "弹唱练习", "duration": 1.0, "checkInAt": "2020-01-12 20:00"}
+]

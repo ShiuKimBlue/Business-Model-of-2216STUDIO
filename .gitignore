@@ -1,0 +1,11 @@
+# 数据分析输出（不提交）
+analytics/output/*.xlsx
+analytics/output/*.png
+!analytics/output/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
